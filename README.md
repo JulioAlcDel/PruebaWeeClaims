@@ -6,16 +6,16 @@ Esta realizado Net Core 8 y SQL SERVER 2022
 
 Proyecto Prueba T�cnica WeeClaims
 
-## Instalaci�n
+## Instalación
 
 1. **Clona el repositorio:**
-
-   ```bash
+  ```bash
   git clone https://github.com/JulioAlcDel/PruebaWeeClaims.git
+
 ## Carpeta: `DDL`
 Esta carpeta contiene los siguientes archivos
  - `pruebaWeeClaims.sql`: Contiene el script para elaboraci�n de la base de datos y tabla correspondiente.
-## Compilaci�n de Ambos proyectos
+## Compilación de Ambos proyectos
 1. **Abrir la Solución en Visual Studio**
 2. **Haz clic derecho en la solución en el Explorador de Soluciones.**
 3. **Selecciona "Establecer proyectos de inicio".**
