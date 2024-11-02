@@ -4,10 +4,10 @@ Esta realizado Net Core 8 y SQL SERVER 2022
 
 # Titulo
 
-Proyecto Prueba T�cnica WeeClaims
+Proyecto Prueba Técnica WeeClaims
 ## Installation
 
-1. **Clone the repository:**
+1. **Clonar repositorio:**
 
    ```bash
    git clone https://github.com/JulioAlcDel/PruebaWeeClaims.git
