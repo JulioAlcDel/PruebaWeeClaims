@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\UI\\UI.csproj",
+      "projectPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\turbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\UI\\obj\\",
+      "outputPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turbo\\AppData\\Roaming\\NuGet\\NuGet.Config",

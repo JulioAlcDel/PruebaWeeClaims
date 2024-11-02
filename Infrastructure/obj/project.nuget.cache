@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3njYjKcZsoMapfmmiLd183WqYZtRV+gCiZFnE4d0wzAPNZE6A+qk3YldTrZSCkje9LsZ9OAkmX3C7hYzXFOiWw==",
+  "dgSpecHash": "cF/SVesiqORQsS9kZf/dEkeWGzYEuCCgTo48HOToCmbk+OXmqztTI8d52NrR40+BrW8or3hVwE2Ko2vkggrkXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\turbo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\turbo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

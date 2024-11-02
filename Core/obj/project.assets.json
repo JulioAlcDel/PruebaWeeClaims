@@ -196,11 +196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\turbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\obj\\",
+      "outputPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turbo\\AppData\\Roaming\\NuGet\\NuGet.Config",

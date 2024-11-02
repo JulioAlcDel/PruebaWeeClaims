@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj": {
+    "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\turbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\obj\\",
+        "outputPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\turbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj"
+              "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\turbo\\Documents\\proyecto\\proyectoEj\\Core\\Core.csproj"
               }
             }
           }
