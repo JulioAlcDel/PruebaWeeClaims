@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRpVWjDw+Aapls1Amo8PaBKBxJPmqJB1kQs6iaocgf7hfBOIF3EveulNMs0g3MoOC0IQOjvP75HxUDZBDhXqVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turbo\\Source\\Repos\\PruebaWeeClaims\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turbo\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\turbo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\turbo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
