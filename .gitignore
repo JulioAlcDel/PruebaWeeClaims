@@ -1,1 +1,6 @@
 .vs/
+# Ignorar todas las carpetas bin en cualquier nivel
+**/bin/
+
+# Ignorar todas las carpetas obj en cualquier nivel
+**/obj/
